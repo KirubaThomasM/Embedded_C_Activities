@@ -6,7 +6,7 @@
 
 |ON|OFF|
 |:--:|:--:|
-|![ON](simulation/sw1 = 1 & sw2 = 1.PNG)|![OFF](simulation/sw1 = 0 & sw2 = 0.PNG)|
+|![ON](simulation/ON.png)|![OFF](simulation/OFF.png)|
 
 #### CI and Code Quality
 
