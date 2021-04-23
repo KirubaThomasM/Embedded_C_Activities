@@ -2,7 +2,7 @@
 
 |ON|OFF|
 |:--:|:--:|
-|\image html ON.png||
+|\image html sw1 = 1 & sw2 = 1.png||
 
 ## Code 
 ```
