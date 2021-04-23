@@ -1,0 +1,1 @@
+@mainpage Blink on Both Switch HIGH by Kiruba Thomas M @subpage project_main.c
