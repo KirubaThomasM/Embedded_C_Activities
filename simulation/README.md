@@ -4,7 +4,6 @@
 |:--:|:--:|
 |![sw1=0&sw2=0](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/sw1%20=%200%20&%20sw2%20=%200.PNG)|![sw1=0&sw2=1](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/sw1%20=%200%20&%20sw2%20=%201.PNG)|
 |sw1=1&sw2=0|sw1=1&sw2=1|
-|:--:|:--:|
 |![sw1=1&sw2=0](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/sw1%20=%201%20&%20sw2%20=%200.PNG)|![sw1=1&sw2=1](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/sw1%20=%201%20&%20sw2%20=%201.PNG)|
 
 ## Code 
