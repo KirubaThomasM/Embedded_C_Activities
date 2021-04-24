@@ -1,8 +1,11 @@
 # Blink On Both switch is HIGH Project In Action
 
-|ON|OFF|
+|sw1 = 0 & sw2 =0|sw1 = 0 & sw2 =1|
 |:--:|:--:|
-|![ON](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/ON.PNG)||![OFF](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/OFF.PNG)|
+|![sw1 = 0 & sw2 =0](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/sw1 = 0 & sw2 =0.PNG)|![sw1 = 0 & sw2 =1](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/sw1 = 0 & sw2 =1.PNG)|
+|sw1 = 1 & sw2 =0|sw1 = 1 & sw2 =1|
+|:--:|:--:|
+|![sw1 = 1 & sw2 =0](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/sw1 = 1 & sw2 =0.PNG)|![sw1 = 1 & sw2 =1](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/sw1 = 1 & sw2 =1.PNG)|
 
 ## Code 
 ```
