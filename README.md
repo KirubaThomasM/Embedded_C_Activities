@@ -6,7 +6,7 @@
 
 |ON|OFF|
 |:--:|:--:|
-|![ON](simulation/ON.png)|![OFF](simulation/OFF.png)|
+|![ON](https://github.com/KirubaThomasM/Embedded_C_Activities/simulation/ON.png)|![OFF](https://github.com/KirubaThomasM/Embedded_C_Activities/simulation/OFF.png)|
 
 #### CI and Code Quality
 
