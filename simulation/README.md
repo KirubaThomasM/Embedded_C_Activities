@@ -2,7 +2,7 @@
 
 |ON|OFF|
 |:--:|:--:|
-|(https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/ON.PNG)||(https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/OFF.PNG)|
+|![ON](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/ON.PNG)||![OFF](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/OFF.PNG)|
 
 ## Code 
 ```
