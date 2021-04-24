@@ -1,8 +1,8 @@
-# Blink On Both switch is ON Project In Action
+# Blink On Both switch is HIGH Project In Action
 
 |ON|OFF|
 |:--:|:--:|
-|\image html sw1 = 1 & sw2 = 1.png||
+|(https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/ON.PNG)||(https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/OFF.PNG)|
 
 ## Code 
 ```
