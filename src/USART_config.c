@@ -33,7 +33,7 @@ if((temp>=710)&&(temp<=1024))
     strcpy(data,"33'c_");
 while(data[i] != 0)                     // print the String in serial monitor 
 {
-    //while(EmptyTransmitBuffer);    // Wait for empty transmit buffer
+    while(EmptyTransmitBuffer);    // Wait for empty transmit buffer
     UDR0 = data[i];                     //Put data into buffer, sends the data 
     i++;                                // increment counter          
 }
