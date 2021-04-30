@@ -22,10 +22,9 @@
 ### 4.Print the Temperature value using SPI USART communication
 
 ## PWM Value configuration Table
-|S No.|ADC range|PWM Dutycycle||Temperature|
-| --- | --- | --- | ---|
+|S No.|ADC range|PWM Dutycycle|Temperature|
+| --- | --- | --- | --- |
 |1.||0-200|20%|20°|
 |2.||210-500|40%|25°|
 |3.||510-700|70%|29°|
 |4.||710-1024|95%|33°|
-|![S No.](4.)|![ADC range](710-1024)|![PWM Dutycycle](95%)|![Temperature](33°)|
