@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "usart_config.h": "c",
+        "tempsensor_config.h": "c"
+    }
+}

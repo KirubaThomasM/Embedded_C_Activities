@@ -1,0 +1,13 @@
+
+Circuit: heatercontroller.simu
+
+Bill of Materials:
+
+Led-10 : Led   
+Potentiometer-15 : Potentiometer 1 kΩ
+Resistor-8 : Resistor 100 Ω
+SerialTerm-20 : SerialTerm   
+Switch-14 : Switch   
+Switch-6 : Switch   
+TextComponent-45 : TextComponent   
+atmega328-9 : atmega328   
