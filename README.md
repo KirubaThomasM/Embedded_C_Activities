@@ -23,7 +23,8 @@
 
 ## PWM Value configuration Table
 |S No.|ADC range|PWM Dutycycle||Temperature|
-|1.||0-200|20%|20°|
-|2.||210-500|40%|25°|
-|3.||510-700|70%|29°|
-|4.||710-1024|95%|33°|
+|:--:|:--:|:--:|:--:|
+|![S No.]1.|![ADC range]0-200|![PWM Dutycycle]20%|![Temperature]20°|
+|![S No.]2.|![ADC range]210-500|![PWM Dutycycle]40%|![Temperature]25°|
+|![S No.]3.|![ADC range]510-700|![PWM Dutycycle]70%|![Temperature]29°|
+|![S No.]4.|![ADC range]710-1024|![PWM Dutycycle]95%|![Temperature]33°|
