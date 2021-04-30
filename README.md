@@ -12,7 +12,7 @@
 
 |ON|OFF|
 |:--:|:--:|
-|![ON](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/ON.PNG)|![OFF](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/OFF.PNG
+|![ON](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/ON.PNG)|![OFF](https://github.com/KirubaThomasM/Embedded_C_Activities/blob/main/simulation/OFF.PNG)|
 
 ## Application Feature
 
@@ -23,7 +23,6 @@
 
 ## PWM Value configuration Table
 |S No.|ADC range|PWM Dutycycle||Temperature|
-|:--:|:--:|:--:|
 |1.||0-200|20%|20°|
 |2.||210-500|40%|25°|
 |3.||510-700|70%|29°|
